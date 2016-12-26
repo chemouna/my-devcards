@@ -1,0 +1,407 @@
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/mydevcards_devcards.js" in 0.577 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/cljs_deps.js
+notifying browser that file changed:  out/mydevcards/core.js
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/mydevcards_devcards.js" in 0.626 seconds.[0m
+[36m----  Could not Analyze  src/mydevcards/core.cljs  ----[0m
+
+  [1mNo such namespace: ajax.core, could not locate ajax/core.cljs, ajax/core.cljc, or Closure namespace "ajax.core" [0m
+
+[36m----  Analysis Error : Please see src/mydevcards/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/mydevcards_devcards.js" in 0.439 seconds.[0m
+notifying browser that file changed:  out/mydevcards/core.js
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/mydevcards_devcards.js" in 0.491 seconds.[0m
+[36m----  Could not Analyze  src/mydevcards/core.cljs  ----[0m
+
+  [1mNo such namespace: ajax.core, could not locate ajax/core.cljs, ajax/core.cljc, or Closure namespace "ajax.core" [0m
+
+[36m----  Analysis Error : Please see src/mydevcards/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/mydevcards_devcards.js" in 0.604 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/cljs_deps.js
+notifying browser that file changed:  out/mydevcards/core.js
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/mydevcards_devcards.js" in 3.7 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/cljs_deps.js
+notifying browser that file changed:  out/mydevcards/core.js
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/mydevcards_devcards.js" in 0.524 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/cljs_deps.js
+notifying browser that file changed:  out/mydevcards/core.js
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/mydevcards_devcards.js" in 0.182 seconds.[0m
+[36m----  Could not Analyze  src/mydevcards/core.cljs   line:1  column:1  ----[0m
+
+  [1mDon't know how to create ISeq from: clojure.lang.Keyword[0m
+
+  [33m1[0m  [1m(ns mydevcards.core[0m
+  [0m [0m  [33m^--- Don't know how to create ISeq from: clojure.lang.Keyword[0m
+  [36m2[0m  [36m  (:require[0m
+  [36m3[0m  [36m   #_[om.core :as om :include-macros true][0m
+  [36m4[0m  [36m   [sablono.core :as sab :include-macros true][0m
+
+[36m----  Analysis Error : Please see src/mydevcards/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/mydevcards_devcards.js" in 0.213 seconds.[0m
+[36m----  Could not Analyze  src/mydevcards/core.cljs   line:1  column:1  ----[0m
+
+  [1mDon't know how to create ISeq from: clojure.lang.Keyword[0m
+
+  [33m1[0m  [1m(ns mydevcards.core[0m
+  [0m [0m  [33m^--- Don't know how to create ISeq from: clojure.lang.Keyword[0m
+  [36m2[0m  [36m  (:require[0m
+  [36m3[0m  [36m   #_[om.core :as om :include-macros true][0m
+  [36m4[0m  [36m   [sablono.core :as sab :include-macros true][0m
+
+[36m----  Analysis Error : Please see src/mydevcards/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/mydevcards_devcards.js" in 0.267 seconds.[0m
+[36m----  Could not Analyze  src/mydevcards/core.cljs   line:1  column:1  ----[0m
+
+  [1mDon't know how to create ISeq from: clojure.lang.Keyword[0m
+
+  [33m1[0m  [1m(ns mydevcards.core[0m
+  [0m [0m  [33m^--- Don't know how to create ISeq from: clojure.lang.Keyword[0m
+  [36m2[0m  [36m  (:require[0m
+  [36m3[0m  [36m   #_[om.core :as om :include-macros true][0m
+  [36m4[0m  [36m   [sablono.core :as sab :include-macros true][0m
+
+[36m----  Analysis Error : Please see src/mydevcards/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/mydevcards_devcards.js" in 0.16 seconds.[0m
+[36m----  Could not Analyze  src/mydevcards/core.cljs   line:1  column:1  ----[0m
+
+  [1mDon't know how to create ISeq from: clojure.lang.Keyword[0m
+
+  [33m1[0m  [1m(ns mydevcards.core[0m
+  [0m [0m  [33m^--- Don't know how to create ISeq from: clojure.lang.Keyword[0m
+  [36m2[0m  [36m  (:require[0m
+  [36m3[0m  [36m   #_[om.core :as om :include-macros true][0m
+  [36m4[0m  [36m   [sablono.core :as sab :include-macros true][0m
+
+[36m----  Analysis Error : Please see src/mydevcards/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/mydevcards_devcards.js" in 0.406 seconds.[0m
+[36m----  Could not Analyze  src/mydevcards/core.cljs   line:1  column:1  ----[0m
+
+  [1mDon't know how to create ISeq from: clojure.lang.Keyword[0m
+
+  [33m1[0m  [1m(ns mydevcards.core[0m
+  [0m [0m  [33m^--- Don't know how to create ISeq from: clojure.lang.Keyword[0m
+  [36m2[0m  [36m  (:require[0m
+  [36m3[0m  [36m   #_[om.core :as om :include-macros true][0m
+  [36m4[0m  [36m   [sablono.core :as sab :include-macros true][0m
+
+[36m----  Analysis Error : Please see src/mydevcards/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/mydevcards_devcards.js" in 0.154 seconds.[0m
+[36m----  Could not Analyze  src/mydevcards/core.cljs   line:1  column:1  ----[0m
+
+  [1mDon't know how to create ISeq from: clojure.lang.Keyword[0m
+
+  [33m1[0m  [1m(ns mydevcards.core[0m
+  [0m [0m  [33m^--- Don't know how to create ISeq from: clojure.lang.Keyword[0m
+  [36m2[0m  [36m  (:require[0m
+  [36m3[0m  [36m   #_[om.core :as om :include-macros true][0m
+  [36m4[0m  [36m   [sablono.core :as sab :include-macros true][0m
+
+[36m----  Analysis Error : Please see src/mydevcards/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/mydevcards_devcards.js" in 0.206 seconds.[0m
+[36m----  Could not Analyze  src/mydevcards/core.cljs   line:1  column:1  ----[0m
+
+  [1mDon't know how to create ISeq from: clojure.lang.Keyword[0m
+
+  [33m1[0m  [1m(ns mydevcards.core[0m
+  [0m [0m  [33m^--- Don't know how to create ISeq from: clojure.lang.Keyword[0m
+  [36m2[0m  [36m  (:require[0m
+  [36m3[0m  [36m   #_[om.core :as om :include-macros true][0m
+  [36m4[0m  [36m   [sablono.core :as sab :include-macros true][0m
+
+[36m----  Analysis Error : Please see src/mydevcards/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/mydevcards_devcards.js" in 0.506 seconds.[0m
+[36m----  Could not Analyze  src/mydevcards/core.cljs   line:1  column:1  ----[0m
+
+  [1mDon't know how to create ISeq from: clojure.lang.Keyword[0m
+
+  [33m1[0m  [1m(ns mydevcards.core[0m
+  [0m [0m  [33m^--- Don't know how to create ISeq from: clojure.lang.Keyword[0m
+  [36m2[0m  [36m  (:require[0m
+  [36m3[0m  [36m   #_[om.core :as om :include-macros true][0m
+  [36m4[0m  [36m   [sablono.core :as sab :include-macros true][0m
+
+[36m----  Analysis Error : Please see src/mydevcards/core.cljs  ----[0m
+Figwheel: Can't open  ("src/mydevcards/core.cljs" 1 1) No :open-file-command supplied in the config.
+Figwheel: Can't open  ("src/mydevcards/core.cljs" 1 1) No :open-file-command supplied in the config.
+Figwheel: Can't open  ("src/mydevcards/core.cljs" 1 1) No :open-file-command supplied in the config.
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/mydevcards_devcards.js" in 0.175 seconds.[0m
+[36m----  Could not Analyze  src/mydevcards/core.cljs   line:1  column:1  ----[0m
+
+  [1mDon't know how to create ISeq from: clojure.lang.Keyword[0m
+
+  [33m1[0m  [1m(ns mydevcards.core[0m
+  [0m [0m  [33m^--- Don't know how to create ISeq from: clojure.lang.Keyword[0m
+  [36m2[0m  [36m  (:require[0m
+  [36m3[0m  [36m   #_[om.core :as om :include-macros true][0m
+  [36m4[0m  [36m   [sablono.core :as sab :include-macros true][0m
+
+[36m----  Analysis Error : Please see src/mydevcards/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/mydevcards_devcards.js" in 0.171 seconds.[0m
+[36m----  Could not Analyze  src/mydevcards/core.cljs   line:1  column:1  ----[0m
+
+  [1mDon't know how to create ISeq from: clojure.lang.Keyword[0m
+
+  [33m1[0m  [1m(ns mydevcards.core[0m
+  [0m [0m  [33m^--- Don't know how to create ISeq from: clojure.lang.Keyword[0m
+  [36m2[0m  [36m  (:require[0m
+  [36m3[0m  [36m   #_[om.core :as om :include-macros true][0m
+  [36m4[0m  [36m   [sablono.core :as sab :include-macros true][0m
+
+[36m----  Analysis Error : Please see src/mydevcards/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/mydevcards_devcards.js" in 0.153 seconds.[0m
+[36m----  Could not Analyze  src/mydevcards/core.cljs   line:1  column:1  ----[0m
+
+  [1mDon't know how to create ISeq from: clojure.lang.Keyword[0m
+
+  [33m1[0m  [1m(ns mydevcards.core[0m
+  [0m [0m  [33m^--- Don't know how to create ISeq from: clojure.lang.Keyword[0m
+  [36m2[0m  [36m  (:require[0m
+  [36m3[0m  [36m   _[om.core :as om :include-macros true][0m
+  [36m4[0m  [36m   [sablono.core :as sab :include-macros true][0m
+
+[36m----  Analysis Error : Please see src/mydevcards/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/mydevcards_devcards.js" in 0.28 seconds.[0m
+[36m----  Could not Analyze  src/mydevcards/core.cljs   line:1  column:1  ----[0m
+
+  [1mDon't know how to create ISeq from: clojure.lang.Keyword[0m
+
+  [33m1[0m  [1m(ns mydevcards.core[0m
+  [0m [0m  [33m^--- Don't know how to create ISeq from: clojure.lang.Keyword[0m
+  [36m2[0m  [36m  (:require[0m
+  [36m3[0m  [36m   _[om.core :as om :include-macros true][0m
+  [36m4[0m  [36m   [sablono.core :as sab :include-macros true][0m
+
+[36m----  Analysis Error : Please see src/mydevcards/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/mydevcards_devcards.js" in 0.407 seconds.[0m
+[36m----  Could not Analyze  src/mydevcards/core.cljs   line:1  column:1  ----[0m
+
+  [1mDon't know how to create ISeq from: clojure.lang.Keyword[0m
+
+  [33m1[0m  [1m(ns mydevcards.core[0m
+  [0m [0m  [33m^--- Don't know how to create ISeq from: clojure.lang.Keyword[0m
+  [36m2[0m  [36m  (:require[0m
+  [36m3[0m  [36m   _[om.core :as om :include-macros true][0m
+  [36m4[0m  [36m   [sablono.core :as sab :include-macros true][0m
+
+[36m----  Analysis Error : Please see src/mydevcards/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/mydevcards_devcards.js" in 0.17 seconds.[0m
+[36m----  Could not Analyze  src/mydevcards/core.cljs   line:1  column:1  ----[0m
+
+  [1mDon't know how to create ISeq from: clojure.lang.Keyword[0m
+
+  [33m1[0m  [1m(ns mydevcards.core[0m
+  [0m [0m  [33m^--- Don't know how to create ISeq from: clojure.lang.Keyword[0m
+  [36m2[0m  [36m  (:require[0m
+  [36m3[0m  [36m   _[om.core :as om :include-macros true][0m
+  [36m4[0m  [36m   [sablono.core :as sab :include-macros true][0m
+
+[36m----  Analysis Error : Please see src/mydevcards/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/mydevcards_devcards.js" in 0.162 seconds.[0m
+[36m----  Could not Analyze  src/mydevcards/core.cljs   line:1  column:1  ----[0m
+
+  [1mDon't know how to create ISeq from: clojure.lang.Keyword[0m
+
+  [33m1[0m  [1m(ns mydevcards.core[0m
+  [0m [0m  [33m^--- Don't know how to create ISeq from: clojure.lang.Keyword[0m
+  [36m2[0m  [36m  (:require[0m
+  [36m3[0m  [36m   _[om.core :as om :include-macros true][0m
+  [36m4[0m  [36m   [sablono.core :as sab :include-macros true][0m
+
+[36m----  Analysis Error : Please see src/mydevcards/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/mydevcards_devcards.js" in 0.156 seconds.[0m
+[36m----  Could not Analyze  src/mydevcards/core.cljs   line:1  column:1  ----[0m
+
+  [1mDon't know how to create ISeq from: clojure.lang.Keyword[0m
+
+  [33m1[0m  [1m(ns mydevcards.core[0m
+  [0m [0m  [33m^--- Don't know how to create ISeq from: clojure.lang.Keyword[0m
+  [36m2[0m  [36m  (:require[0m
+  [36m3[0m  [36m   _[om.core :as om :include-macros true][0m
+  [36m4[0m  [36m   [sablono.core :as sab :include-macros true][0m
+
+[36m----  Analysis Error : Please see src/mydevcards/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/mydevcards_devcards.js" in 0.162 seconds.[0m
+[36m----  Could not Analyze  src/mydevcards/core.cljs   line:1  column:1  ----[0m
+
+  [1mDon't know how to create ISeq from: clojure.lang.Keyword[0m
+
+  [33m1[0m  [1m(ns mydevcards.core[0m
+  [0m [0m  [33m^--- Don't know how to create ISeq from: clojure.lang.Keyword[0m
+  [36m2[0m  [36m  (:require[0m
+  [36m3[0m  [36m   _[om.core :as om :include-macros true][0m
+  [36m4[0m  [36m   [sablono.core :as sab :include-macros true][0m
+
+[36m----  Analysis Error : Please see src/mydevcards/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/mydevcards_devcards.js" in 0.165 seconds.[0m
+[36m----  Could not Analyze  src/mydevcards/core.cljs   line:1  column:1  ----[0m
+
+  [1mDon't know how to create ISeq from: clojure.lang.Keyword[0m
+
+  [33m1[0m  [1m(ns mydevcards.core[0m
+  [0m [0m  [33m^--- Don't know how to create ISeq from: clojure.lang.Keyword[0m
+  [36m2[0m  [36m  (:require[0m
+  [36m3[0m  [36m   _[om.core :as om :include-macros true][0m
+  [36m4[0m  [36m   [sablono.core :as sab :include-macros true][0m
+
+[36m----  Analysis Error : Please see src/mydevcards/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/mydevcards_devcards.js" in 0.261 seconds.[0m
+[36m----  Could not Analyze  src/mydevcards/core.cljs   line:1  column:1  ----[0m
+
+  [1mDon't know how to create ISeq from: clojure.lang.Keyword[0m
+
+  [33m1[0m  [1m(ns mydevcards.core[0m
+  [0m [0m  [33m^--- Don't know how to create ISeq from: clojure.lang.Keyword[0m
+  [36m2[0m  [36m  (:require[0m
+  [36m3[0m  [36m   ;;_[om.core :as om :include-macros true][0m
+  [36m4[0m  [36m   [sablono.core :as sab :include-macros true][0m
+
+[36m----  Analysis Error : Please see src/mydevcards/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/mydevcards_devcards.js" in 0.205 seconds.[0m
+[36m----  Could not Analyze  src/mydevcards/core.cljs   line:1  column:1  ----[0m
+
+  [1mDon't know how to create ISeq from: clojure.lang.Keyword[0m
+
+  [33m1[0m  [1m(ns mydevcards.core[0m
+  [0m [0m  [33m^--- Don't know how to create ISeq from: clojure.lang.Keyword[0m
+  [36m2[0m  [36m  (:require[0m
+  [36m3[0m  [36m   [om.core :as om :include-macros true][0m
+  [36m4[0m  [36m   [sablono.core :as sab :include-macros true][0m
+
+[36m----  Analysis Error : Please see src/mydevcards/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/mydevcards_devcards.js" in 0.312 seconds.[0m
+[36m----  Could not Analyze  src/mydevcards/core.cljs   line:1  column:1  ----[0m
+
+  [1mDon't know how to create ISeq from: clojure.lang.Keyword[0m
+
+  [33m1[0m  [1m(ns mydevcards.core[0m
+  [0m [0m  [33m^--- Don't know how to create ISeq from: clojure.lang.Keyword[0m
+  [36m2[0m  [36m  (:require[0m
+  [36m3[0m  [36m   [om.core :as om :include-macros true][0m
+  [36m4[0m  [36m   [sablono.core :as sab :include-macros true][0m
+
+[36m----  Analysis Error : Please see src/mydevcards/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/mydevcards_devcards.js" in 0.159 seconds.[0m
+[36m----  Could not Analyze  src/mydevcards/core.cljs   line:1  column:1  ----[0m
+
+  [1mDon't know how to create ISeq from: clojure.lang.Keyword[0m
+
+  [33m1[0m  [1m(ns mydevcards.core[0m
+  [0m [0m  [33m^--- Don't know how to create ISeq from: clojure.lang.Keyword[0m
+  [36m2[0m  [36m  (:require[0m
+  [36m3[0m  [36m   ;;[om.core :as om :include-macros true][0m
+  [36m4[0m  [36m   [sablono.core :as sab :include-macros true][0m
+
+[36m----  Analysis Error : Please see src/mydevcards/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/mydevcards/core.cljs   line:15  column:15  ----[0m
+
+  [1mUse of undeclared Var mydevcards.core/chan[0m
+
+  [36m11[0m  [36m     ))[0m
+  [36m12[0m  [36m[0m
+  [36m13[0m  [36m(enable-console-print!)[0m
+  [36m14[0m  [36m[0m
+  [33m15[0m  [1m(def channel (chan 5))[0m
+  [0m  [0m  [33m              ^--- Use of undeclared Var mydevcards.core/chan[0m
+  [36m16[0m  [36m[0m
+  [36m17[0m  [36m(defcard first-card[0m
+  [36m18[0m  [36m  (sab/html [:div[0m
+  [36m19[0m  [36m             [:h1 "This is your first devcard!"]]))[0m
+
+[36m----  Compiler Warning : Please see src/mydevcards/core.cljs  ----[0m
+[32mSuccessfully compiled "resources/public/js/compiled/mydevcards_devcards.js" in 0.812 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/cljs_deps.js
+notifying browser that file changed:  out/mydevcards/core.js
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/mydevcards_devcards.js" in 0.391 seconds.[0m
+notifying browser that file changed:  out/mydevcards/core.js
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/mydevcards_devcards.js" in 0.374 seconds.[0m
+notifying browser that file changed:  out/mydevcards/core.js
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/mydevcards_devcards.js" in 5.586 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/cljs_deps.js
+notifying browser that file changed:  out/mydevcards/core.js
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/mydevcards_devcards.js" in 0.201 seconds.[0m
+[36m----  Could not Analyze  src/mydevcards/core.cljs   line:1  column:1  ----[0m
+
+  [1mDon't know how to create ISeq from: clojure.lang.Keyword[0m
+
+  [33m1[0m  [1m(ns mydevcards.core[0m
+  [0m [0m  [33m^--- Don't know how to create ISeq from: clojure.lang.Keyword[0m
+  [36m2[0m  [36m  (:require[0m
+  [36m3[0m  [36m   [om.core :as om :include-macros true][0m
+  [36m4[0m  [36m   [sablono.core :as sab :include-macros true][0m
+
+[36m----  Analysis Error : Please see src/mydevcards/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/mydevcards_devcards.js" in 0.503 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/cljs_deps.js
+notifying browser that file changed:  out/mydevcards/core.js
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/mydevcards_devcards.js" in 0.483 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/cljs_deps.js
+notifying browser that file changed:  out/mydevcards/core.js
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/mydevcards/core.cljs   line:15  column:15  ----[0m
+
+  [1mUse of undeclared Var mydevcards.core/chan[0m
+
+  [36m11[0m  [36m     ))[0m
+  [36m12[0m  [36m[0m
+  [36m13[0m  [36m(enable-console-print!)[0m
+  [36m14[0m  [36m[0m
+  [33m15[0m  [1m(def channel (chan 5))[0m
+  [0m  [0m  [33m              ^--- Use of undeclared Var mydevcards.core/chan[0m
+  [36m16[0m  [36m[0m
+  [36m17[0m  [36m(defcard first-card[0m
+  [36m18[0m  [36m  (sab/html [:div[0m
+  [36m19[0m  [36m             [:h1 "This is your first devcard!"]]))[0m
+
+[36m----  Compiler Warning : Please see src/mydevcards/core.cljs  ----[0m
+[32mSuccessfully compiled "resources/public/js/compiled/mydevcards_devcards.js" in 0.497 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/cljs_deps.js
+notifying browser that file changed:  out/mydevcards/core.js
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/mydevcards_devcards.js" in 0.572 seconds.[0m
+notifying browser that file changed:  out/mydevcards/core.js
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/mydevcards_devcards.js" in 0.452 seconds.[0m
+notifying browser that file changed:  out/mydevcards/core.js
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/mydevcards_devcards.js" in 0.401 seconds.[0m
+notifying browser that file changed:  out/mydevcards/core.js
+[0mCompiling "resources/public/js/compiled/mydevcards_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/mydevcards_devcards.js" in 0.614 seconds.[0m
+notifying browser that file changed:  out/mydevcards/core.js
