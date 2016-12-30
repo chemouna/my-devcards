@@ -12,15 +12,6 @@
 
 (enable-console-print!)
 
-(def channel (async/chan 5))
-
-(def error-channel (async/chan 5))
-
-(defn enqueue-val
-  "Enqueue a new value into our channel."
-  [c v]
-  (async/go (async/>! c v)))
-
 (defcard first-card
   (sab/html [:div
              [:h1 "This is your first devcard!"]]))
