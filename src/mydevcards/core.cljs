@@ -25,15 +25,15 @@
         (>! channel publish-value)
         (recur))))
 
-(def randomly-constantly in-channel-one "channel-one")
-(def randomly-constantly in-channel-two "channel-two")
-(def randomly-constantly in-channel-three "channel-three")
+(randomly-constantly in-channel-one "channel-one")
+(randomly-constantly in-channel-two "channel-two")
+(randomly-constantly in-channel-three "channel-three")
 
 (def merged (merge [in-channel-one
                     in-channel-two
                     in-channel-three]))
 
-(go (loop [] ;; why [] ? 
+(go (loop []
       (println (<! merged)) (recur)))
 
 (defcard first-card
